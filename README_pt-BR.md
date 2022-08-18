@@ -81,7 +81,7 @@ Toda a sintaxe pode ser encontrada [aqui](https://daringfireball.net/projects/ma
  <br></br>
  <p id="section1">Nota: **Nota de rodapé** na verdade não é processado corretamente na tabela (e github preview), mas parece ser assim     ![](http://i.imgur.com/pmeBr28.png)
    <br></br>
-   O mesmo vale para **Bloco de codigo/Destaque de sintaxe**. É um pouco parecido com essa imagem :
+   O mesmo vale para **Bloco de codigo/Destaque de sintaxe**. Sua aparência é igual a da imagem abaixo:
    ![](http://i.imgur.com/z8KrxAz.png).</p>
 
 Estas características dependem de cada versão de markdown.
